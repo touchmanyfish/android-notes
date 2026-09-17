@@ -1,2 +1,18 @@
-# android-notes
-android相关笔记
+## 目录
+
+- [Activity状态控制模型粗略分析](notes/Activity状态控制模型粗略分析.md)
+- [Handler消息队列分析](notes/Handler消息队列分析.md)
+- [RecyclerView1-layout分析-总体流程](notes/RecyclerView1-layout分析-总体流程.md)
+- [RecyclerView2-layout分析-LinearLayoutManager实现](notes/RecyclerView2-layout分析-LinearLayoutManager实现.md)
+- [RecyclerView3-滑动列表流程分析](notes/RecyclerView3-滑动列表流程分析.md)
+- [RecyclerView4-缓存体系](notes/RecyclerView4-缓存体系.md)
+- [View渲染流程1-总体流程](notes/View渲染流程1-总体流程.md)
+- [View渲染流程2-测量](notes/View渲染流程2-测量.md)
+- [View渲染流程3-布局](notes/View渲染流程3-布局.md)
+- [View渲染流程4-绘制(draft)](notes/View渲染流程4-绘制(draft).md)
+- [事件分发流程1-总体流程](notes/事件分发流程1-总体流程.md)
+- [事件分发流程2-ViewPostImeInputStage](notes/事件分发流程2-ViewPostImeInputStage.md)
+- [事件分发流程3-ViewGroup#dispatchTouchEvent()](notes/事件分发流程3-ViewGroup#dispatchTouchEvent().md)
+- [事件分发流程4-MotionEvent](notes/事件分发流程4-MotionEvent.md)
+- [事件分发流程5-View中的相关方法](notes/事件分发流程5-View中的相关方法.md)
+- [事件分发流程7-滑动冲突](notes/事件分发流程7-滑动冲突.md)
